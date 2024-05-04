@@ -1,35 +1,49 @@
-# patientzerotwo5.0
+# PatientZeroSec 5.0
 
 ## Introduction
 
-This project is to provide static (html,css,javascript) template with decent design that everyone can use.
+PatientZeroSec 5.0 is a static template designed to offer a sleek and professional design suitable for various purposes. Originally crafted for creating and selling cybersecurity courses, this template is highly customizable to adapt to any course-selling business model. With a focus on simplicity and elegance, it provides a solid foundation for establishing an online presence and driving business growth.
 
-# Getting started
+## Getting Started
 
-Clone repo with command:
+To get started with PatientZeroSec 5.0, clone the repository using the following command:
 
-    $ git clone https://github.com/hitesh911/patientzerosec.git
-    
-Then:
+```bash
+$ git clone https://github.com/hitesh911/patientzerosec.git
+```
 
-    $ cd patientzerosec/dist
+Then navigate to the `dist` directory:
 
-Now you are in main directory where you can find all html files
+```bash
+$ cd patientzerosec/dist
+```
 
-# Structure
-This template is made with the intention to create cyber security cource selling site with appropriate information `But it could be customize easily`.
+Here, you'll find all the HTML files ready for use.
 
-# Features
+## Structure
 
-* It includes custom written css or tailwind generated css.
+PatientZeroSec 5.0 is structured with the intention of creating a cybersecurity course-selling website, but it can be easily customized to suit any course-selling venture. The template includes HTML, CSS (both custom-written and Tailwind CSS), and JavaScript files.
 
-* It includes Javascript and obviously html
+## Features
 
-# Versions
+- Custom-written CSS and Tailwind-generated CSS for styling flexibility.
+- Incorporates JavaScript for various functionalities.
+- Lightweight and SEO-friendly design for improved visibility and user experience.
 
-* [Prime Archive](https://github.com/hitesh911/patientzerosec) `primary`
-* [Prime Archive 3.0](https://github.com/hitesh911/patientzerosec3.0) 'secondary`
-* [Prime Archive 4.0](https://github.com/hitesh911/patientzerosec4.0) `tertiary`
+## Versions
 
-* 
-Code is free to use under MIT license.
+- [PatientZeroSec](https://github.com/hitesh911/patientzerosec) (Primary)
+- [PatientZeroSec 3.0](https://github.com/hitesh911/patientzerosec3.0) (Secondary)
+- [PatientZeroSec 4.0](https://github.com/hitesh911/patientzerosec4.0) (Tertiary)
+
+The code is free to use under the MIT license.
+
+## Screenshots
+
+Below are screenshots showcasing different aspects of PatientZeroSec 5.0:
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
+
+These screenshots provide a visual representation of the template's design and layout, highlighting its aesthetics and usability.
