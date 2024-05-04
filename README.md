@@ -42,8 +42,10 @@ The code is free to use under the MIT license.
 
 Below are screenshots showcasing different aspects of PatientZeroSec 5.0:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](dist/pictures/1.png)
+![Screenshot 2](dist/pictures/2.png)
+![Screenshot 3](dist/pictures/3.png)
+![Screenshot 4](dist/pictures/4.png)
+![Screenshot 5](dist/pictures/5.png)
 
 These screenshots provide a visual representation of the template's design and layout, highlighting its aesthetics and usability.
